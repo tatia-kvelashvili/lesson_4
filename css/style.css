@@ -1,0 +1,134 @@
+/* header logo */
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 162px;
+    margin-right: 150px;
+
+}
+.logo-about {
+    width: 198.79px;
+    height: 53.72px;
+}
+/* header nav menu */
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li {
+    display: inline-block;
+}
+.nav-a {
+    color: #274C5B;
+    font-size: 20px;
+    font-family: 'Roboto';
+    line-height: 23.44px;
+    margin-right: 25px;
+}
+.header-nav {
+    margin: 69px auto;
+}
+/* main box */
+.main-box-top {
+    width: 1400px;
+    height: 624px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    margin-bottom: 91px;
+    margin-left: 260px;
+}
+.left-box {
+    vertical-align: middle;
+    display: inline-block;
+    width: 671px;
+    height: 624px;
+
+}
+.why-title {
+    font-family: 'Yellowtail';
+    color: #7EB693;
+    font-size: 36px;
+    line-height: 49.06px;
+    margin-bottom: 6px;
+}
+.title-2 {
+    font-family: 'Roboto';
+    font-size: 50px;
+    color: #274C5B;
+    line-height: 58.59px;
+    width: 524px;
+    margin-bottom: 025px;
+}
+.text-1 {
+   font-family: 'Open Sans';
+    font-size: 18px;
+    color: #525C60;
+    line-height: 29.77px;
+    margin-bottom: 36px;
+}
+.circle-div {
+    display: inline-block;
+    background-color: #ECECEC;
+    padding: 29px 91px 29px 27px;
+    margin-bottom: 12px;
+}
+.circle {
+    display: inline-block;
+    vertical-align: top;
+    width: 19px;
+}
+.text-circle {
+    font-family: 'Roboto-medium';
+    display: inline-block;
+    vertical-align: top;
+    color: #274C5B;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+.text-sizes {
+    width: 444px;
+    height: 60px;
+    margin-left: 60px;
+}
+.right-box {
+    vertical-align: middle;
+    display: inline-block;
+    width: 678px;
+    height: 579px;
+    margin-left: 51px;
+}
+/* return policy */
+.bottom-section {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1,118px;
+    height: 335px;
+    margin-bottom: 189px;
+    margin-left: 401px;
+}
+.div-section {
+    display: inline-block;
+    width: 257px;
+    height: 335px;
+    margin-right: 30px;
+    background-color: #FFFFFF;
+
+}
+.title-bot {
+    font-family: 'Roboto';
+    padding-top: 29px;
+    color: #274C5B;
+    margin-bottom: 30px;
+}
+.text-bot {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    line-height: 29.77px;
+    width: 184px;
+    height: 115px;
+    text-align: center;
+    color: #525C60;
+    
+}
