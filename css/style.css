@@ -26,17 +26,18 @@
     margin-right: 25px;
 }
 .header-nav {
+    width: 1595.79px;
+    height: 53.72px;
     margin: 69px auto;
-}
-/* main box */
+}/* main box */
 .main-box-top {
     width: 1400px;
     height: 624px;
     margin-left: auto;
     margin-right: auto;
-    display: inline-block;
+    /* display: inline-block; */
     margin-bottom: 91px;
-    margin-left: 260px;
+
 }
 .left-box {
     vertical-align: middle;
@@ -100,21 +101,21 @@
 }
 /* return policy */
 .bottom-section {
-    display: inline-block;
+    width: 1118px;
+    height: 335px;
     margin-left: auto;
     margin-right: auto;
-    width: 1,118px;
-    height: 335px;
     margin-bottom: 189px;
-    margin-left: 401px;
 }
 .div-section {
     display: inline-block;
     width: 257px;
     height: 335px;
-    margin-right: 30px;
     background-color: #FFFFFF;
 
+}
+.distance {
+    margin-right: 20px;
 }
 .title-bot {
     font-family: 'Roboto';
